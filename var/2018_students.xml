@@ -2,17 +2,10 @@
 
 <students>
     <student>
-        <firstname>XXXXXXX</firstname>
-        <lastname>YYYYYYYYY</lastname>
-        <email>student@uek.krakow.pl</email>
-        <github>studuek</github>
-        <group>jkanclerz</group>
-    </student>
-    <student>
-        <firstname>asda</firstname>
-        <lastname>saasdassasasaas</lastname>
-        <email>student@uek.krakow.pl</email>
-        <github>studuek</github>
-        <group>jkanclerz</group>
+        <firstname>Kamil</firstname>
+        <lastname>Ca³a</lastname>
+        <email>kamilcala@uek.krakow.pl</email>
+        <github>Riserax</github>
+        <group>KrDZIs3011Io</group>
     </student>
 </students>
